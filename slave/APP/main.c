@@ -2,11 +2,10 @@
  * main.c
  *
  *  Created on: kjksjdkds
- *      Author: dell
+ *      Author: yarab
  */
 
 
-#include "EXT_INT_Interface.h"
 #include "KeyPad_Interface.h"
 #include "LCD_Interface.h"
 #include "LM35_Interface.h"
